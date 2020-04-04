@@ -7,6 +7,7 @@ https://github.com/yortyrh/pushnandroidissue
 
 ### Environment
 
+```
   Expo CLI 3.17.15 environment info:
     System:
       OS: Windows 10 10.0.18362
@@ -18,17 +19,19 @@ https://github.com/yortyrh/pushnandroidissue
       expo: ~37.0.3 => 37.0.4
       react: ~16.9.0 => 16.9.0
       react-native: https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz => 0.61.4
+```
 
 This happens in Android using the expo client
 
 ### Steps to Reproduce
 1) Execute the following steps in windows CMD.
 ```
-git clone git@github.com:yortyrh/pushnandroidissue.git
-cd pushnandroidissue
-yarn install
-yarn start
+$ git clone git@github.com:yortyrh/pushnandroidissue.git
+$ cd pushnandroidissue
+$ yarn install
+$ yarn start
 ```
+
 2) Once the application starts, it shows the alert: "Error: Couldn't get GCM token on device"
 
 ### Expected Behavior
