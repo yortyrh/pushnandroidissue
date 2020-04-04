@@ -40,7 +40,7 @@ It should show **Token**: <the push notification token> and no alert
 ### Actual Behavior
 It shows **Token**: <empty> and the Alert: "Error: Couldn't get GCM token on device"
 
-<img src="/assets/push-notifications-token-issue.png" style="style="max-width:50%;">
+<img src="/assets/push-notifications-token-issue.png" style="max-width:50%;">
 
 ### Reproducible Demo
 https://github.com/yortyrh/pushnandroidissue
