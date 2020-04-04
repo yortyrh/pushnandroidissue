@@ -1,5 +1,5 @@
 ## 🐛 Bug Report
-**Issue: ** https://github.com/expo/expo/issues/7653
+**Issue:** https://github.com/expo/expo/issues/7653
 
 While running the guide from https://docs.expo.io/versions/v37.0.0/guides/push-notifications,
 I'm getting the error `Couldn't get GCM token on device.`
